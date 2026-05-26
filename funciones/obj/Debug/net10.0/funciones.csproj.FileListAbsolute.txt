@@ -1,0 +1,15 @@
+C:\proyectoscs\sistemas\funciones\funciones\bin\Debug\net10.0\funciones.exe
+C:\proyectoscs\sistemas\funciones\funciones\bin\Debug\net10.0\funciones.deps.json
+C:\proyectoscs\sistemas\funciones\funciones\bin\Debug\net10.0\funciones.runtimeconfig.json
+C:\proyectoscs\sistemas\funciones\funciones\bin\Debug\net10.0\funciones.dll
+C:\proyectoscs\sistemas\funciones\funciones\bin\Debug\net10.0\funciones.pdb
+C:\proyectoscs\sistemas\funciones\funciones\obj\Debug\net10.0\funciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectoscs\sistemas\funciones\funciones\obj\Debug\net10.0\funciones.AssemblyInfoInputs.cache
+C:\proyectoscs\sistemas\funciones\funciones\obj\Debug\net10.0\funciones.AssemblyInfo.cs
+C:\proyectoscs\sistemas\funciones\funciones\obj\Debug\net10.0\funciones.csproj.CoreCompileInputs.cache
+C:\proyectoscs\sistemas\funciones\funciones\obj\Debug\net10.0\funciones.sourcelink.json
+C:\proyectoscs\sistemas\funciones\funciones\obj\Debug\net10.0\funciones.dll
+C:\proyectoscs\sistemas\funciones\funciones\obj\Debug\net10.0\refint\funciones.dll
+C:\proyectoscs\sistemas\funciones\funciones\obj\Debug\net10.0\funciones.pdb
+C:\proyectoscs\sistemas\funciones\funciones\obj\Debug\net10.0\funciones.genruntimeconfig.cache
+C:\proyectoscs\sistemas\funciones\funciones\obj\Debug\net10.0\ref\funciones.dll
